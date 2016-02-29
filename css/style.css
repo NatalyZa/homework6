@@ -20,16 +20,16 @@ header span {
   font-family: Arial;
 }
 .login {
-  width: 492px;
-  height: 25px;
+  width: 493px;
+  height: 23px;
   position: absolute;
-  margin: 17px 15px 10px 315px;
+  margin: 16px 15px 10px 315px;
   background-color: #1b5b7c;
   border-radius: 5px;
   line-height: 25px;
   border: 1px solid #13476a;
   box-shadow: 2px 3px 3px #13476a;
-  font-size: 18px;
+  font-size: 13px;
 }
 .login li {
   display: inline-block;
@@ -45,8 +45,8 @@ header span {
 }
 .login a {
   color: white;
-  margin-left: 5px;
-  padding-right: 5px;
+  margin-left: 3px;
+  margin-right: 4px;
   font-size: 12px;
   font-family: Arial;
 }
@@ -269,7 +269,7 @@ header span {
 .tire p {
   padding-left: 5px;
   font-weight: bold;
-  font-size: 10px;
+  font-size: 14px;
   line-height: 19px;
   color: #114165;
   font-family: Arial;
@@ -555,7 +555,7 @@ header span {
 .brendlogo {
   text-align: center;
   margin-top: 32px;
-  margin-bottom: 123px;
+  margin-bottom: 23px;
 }
                           /*FOOTER*/
 footer {
@@ -563,11 +563,9 @@ footer {
   bottom: 0;
   height: 100px;
   width: 910px;
-  margin-left: 45px;
   margin-right: 45px;
   text-align: center;
   background-color: #213a4d;
-  position: absolute;
 }
 .map li {
   display: inline-block;
